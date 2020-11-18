@@ -14,7 +14,7 @@
 
 // PROGRAM		"Quartus Prime"
 // VERSION		"Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition"
-// CREATED		"Thu Nov 05 11:36:16 2020"
+// CREATED		"Thu Nov 05 08:27:13 2020"
 
 module ALUBits0To30(
 	a,
